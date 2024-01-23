@@ -1,0 +1,29 @@
+.ac{
+    text-decoration: none;
+}
+.ad:hover{
+    color:white;
+}
+ul{
+    list-style: none;
+}
+.ab{
+    height: 80vh;
+}
+.cy{
+    color:yellow;
+}
+.sc:hover{
+    scale: 1.1;
+}
+.ad2:hover{
+    color:yellow;
+}
+.cw{
+    color: white;
+}
+.mk:hover{
+    background-color:yellow;
+    /* padding: 25px; */
+    color: black;
+}
